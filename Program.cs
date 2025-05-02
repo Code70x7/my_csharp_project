@@ -1,4 +1,6 @@
-﻿using System;
+﻿//this is my first program
+
+using System;
 
 class Program
 {
