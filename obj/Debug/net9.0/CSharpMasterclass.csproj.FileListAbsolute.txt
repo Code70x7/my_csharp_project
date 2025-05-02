@@ -1,0 +1,14 @@
+/Users/code77/Documents/CSharpMasterclass/bin/Debug/net9.0/CSharpMasterclass
+/Users/code77/Documents/CSharpMasterclass/bin/Debug/net9.0/CSharpMasterclass.deps.json
+/Users/code77/Documents/CSharpMasterclass/bin/Debug/net9.0/CSharpMasterclass.runtimeconfig.json
+/Users/code77/Documents/CSharpMasterclass/bin/Debug/net9.0/CSharpMasterclass.dll
+/Users/code77/Documents/CSharpMasterclass/bin/Debug/net9.0/CSharpMasterclass.pdb
+/Users/code77/Documents/CSharpMasterclass/obj/Debug/net9.0/CSharpMasterclass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/code77/Documents/CSharpMasterclass/obj/Debug/net9.0/CSharpMasterclass.AssemblyInfoInputs.cache
+/Users/code77/Documents/CSharpMasterclass/obj/Debug/net9.0/CSharpMasterclass.AssemblyInfo.cs
+/Users/code77/Documents/CSharpMasterclass/obj/Debug/net9.0/CSharpMasterclass.csproj.CoreCompileInputs.cache
+/Users/code77/Documents/CSharpMasterclass/obj/Debug/net9.0/CSharpMasterclass.dll
+/Users/code77/Documents/CSharpMasterclass/obj/Debug/net9.0/refint/CSharpMasterclass.dll
+/Users/code77/Documents/CSharpMasterclass/obj/Debug/net9.0/CSharpMasterclass.pdb
+/Users/code77/Documents/CSharpMasterclass/obj/Debug/net9.0/CSharpMasterclass.genruntimeconfig.cache
+/Users/code77/Documents/CSharpMasterclass/obj/Debug/net9.0/ref/CSharpMasterclass.dll
